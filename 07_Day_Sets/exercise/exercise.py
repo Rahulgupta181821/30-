@@ -70,3 +70,7 @@ sentence_set = set(sentence_words)
 print(sentence_set)
 print(len(sentence_set))
 print(len(sentence_words))
+dt ={}
+st={}
+print(type(st))
+print(type(dt))
